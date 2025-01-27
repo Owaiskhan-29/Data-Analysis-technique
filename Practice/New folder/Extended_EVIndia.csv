@@ -1,0 +1,163 @@
+Car,Style,Range,Transmission,VehicleType,PriceRange,Capacity,BootSpace,BaseModel,TopModel
+Tata Nexon EV,Compact SUV,312 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,350 L,XM ,Dark XZ Plus LUX 
+Tata Tigor EV,Subcompact Sedan,306 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,5 Seater ,316 L,XE ,XZ Plus Dual Tone 
+Tata Nexon EV Max,Compact SUV,437 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,5 Seater ,350 L,XZ Plus 3.3 kW ,XZ Plus Lux 7.2 kW 
+MG ZS EV,Compact SUV,419 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,5 Seater ,448 L,Excite ,Exclusive 
+Hyundai Kona Electric,Compact SUV,452 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,na,Premium Dual Tone ,HSE 
+Jaguar I-Pace,Premium Midsize Sedan,470 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,656 L,S ,Sportback 55 
+Audi E-Tron GT,Premium Coupe,388 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,405 L,Quattro ,na
+BYD E6,Subcompact MPV,415 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,580 L,STD ,na
+Mercedes-Benz EQC,Compact SUV,471 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,na,na,na
+BMW iX,Premium Fullsize SUV,425 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,5 Seater ,na,na,na
+Porsche Taycan,Premium Sports Sedan,na,Automatic,Electric,₹ 1.5 Cr,4 Seater ,na,na,na
+Audi E-Tron,Compact SUV,400 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,660 L,na,na
+BYD E6,Premium Coupe,437 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,448 L,XZ Plus 3.3 kW ,HSE 
+BYD E6,Premium Coupe,na,Automatic,Electric,₹ 1.5 Cr,4 Seater ,656 L,XZ Plus 3.3 kW ,XZ Plus Lux 7.2 kW 
+BMW iX,Premium Coupe,425 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,4 Seater ,na,STD ,Exclusive 
+Audi E-Tron,Premium Coupe,425 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,316 L,na,Sportback 55 
+BMW iX,Subcompact MPV,437 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,656 L,Quattro ,Sportback 55 
+Hyundai Kona Electric,Subcompact Sedan,400 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,5 Seater ,316 L,XE ,XZ Plus Dual Tone 
+Audi E-Tron GT,Compact SUV,471 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,4 Seater ,580 L,XM ,Sportback 55 
+Jaguar I-Pace,Premium Midsize Sedan,425 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,580 L,STD ,XZ Plus Lux 7.2 kW 
+Tata Nexon EV Max,Premium Sports Sedan,415 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,316 L,STD ,Dark XZ Plus LUX 
+Mercedes-Benz EQC,Compact SUV,388 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,316 L,Quattro ,XZ Plus Lux 7.2 kW 
+MG ZS EV,Premium Coupe,388 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,580 L,S ,XZ Plus Lux 7.2 kW 
+MG ZS EV,Compact SUV,415 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,316 L,STD ,na
+Audi E-Tron,Subcompact Sedan,470 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,5 Seater ,660 L,S ,Exclusive 
+Audi E-Tron GT,Subcompact Sedan,388 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,580 L,Quattro ,XZ Plus Lux 7.2 kW 
+Tata Tigor EV,Subcompact Sedan,388 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,580 L,XM ,XZ Plus Lux 7.2 kW 
+MG ZS EV,Subcompact Sedan,419 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,316 L,S ,Dark XZ Plus LUX 
+Mercedes-Benz EQC,Premium Midsize Sedan,419 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,405 L,Premium Dual Tone ,XZ Plus Lux 7.2 kW 
+Mercedes-Benz EQC,Subcompact MPV,419 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,5 Seater ,316 L,S ,Exclusive 
+Hyundai Kona Electric,Premium Coupe,306 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,660 L,STD ,na
+BYD E6,Subcompact MPV,425 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,656 L,XE ,na
+BYD E6,Subcompact Sedan,470 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,405 L,XZ Plus 3.3 kW ,HSE 
+Audi E-Tron GT,Premium Sports Sedan,419 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,350 L,Excite ,Exclusive 
+Jaguar I-Pace,Subcompact MPV,452 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,660 L,STD ,na
+Audi E-Tron,Premium Coupe,na,Automatic,Electric,₹ 17.74 - 19.24 L,5 Seater ,448 L,Excite ,Exclusive 
+Tata Tigor EV,Premium Coupe,na,Automatic,Electric,₹ 1.5 Cr,5 Seater ,660 L,XE ,Exclusive 
+Tata Tigor EV,Premium Midsize Sedan,400 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,350 L,STD ,Sportback 55 
+Tata Nexon EV,Subcompact Sedan,415 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,660 L,S ,Exclusive 
+BYD E6,Premium Coupe,425 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,316 L,XM ,na
+Jaguar I-Pace,Subcompact MPV,na,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,656 L,S ,HSE 
+Tata Tigor EV,Subcompact Sedan,452 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,350 L,XM ,Dark XZ Plus LUX 
+Jaguar I-Pace,Premium Sports Sedan,452 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,4 Seater ,448 L,STD ,XZ Plus Lux 7.2 kW 
+Audi E-Tron,Subcompact MPV,415 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,448 L,S ,Sportback 55 
+Mercedes-Benz EQC,Subcompact MPV,415 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,350 L,Excite ,XZ Plus Lux 7.2 kW 
+Audi E-Tron GT,Premium Sports Sedan,419 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,5 Seater ,350 L,Quattro ,Dark XZ Plus LUX 
+BYD E6,Premium Sports Sedan,400 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,656 L,XM ,Dark XZ Plus LUX 
+Audi E-Tron,Premium Fullsize SUV,415 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,4 Seater ,na,XZ Plus 3.3 kW ,Dark XZ Plus LUX 
+Hyundai Kona Electric,Subcompact Sedan,419 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,5 Seater ,405 L,XE ,XZ Plus Dual Tone 
+BMW iX,Premium Fullsize SUV,306 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,5 Seater ,316 L,Quattro ,XZ Plus Lux 7.2 kW 
+Hyundai Kona Electric,Subcompact MPV,452 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,350 L,XZ Plus 3.3 kW ,Dark XZ Plus LUX 
+BMW iX,Compact SUV,470 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,660 L,XM ,Dark XZ Plus LUX 
+Audi E-Tron,Compact SUV,471 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,na,XE ,XZ Plus Lux 7.2 kW 
+Tata Nexon EV Max,Premium Midsize Sedan,452 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,350 L,Premium Dual Tone ,na
+Jaguar I-Pace,Subcompact MPV,437 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,580 L,na,na
+Hyundai Kona Electric,Premium Fullsize SUV,388 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,580 L,XM ,HSE 
+Tata Nexon EV Max,Subcompact Sedan,470 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,448 L,na,Dark XZ Plus LUX 
+Porsche Taycan,Premium Fullsize SUV,312 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,4 Seater ,na,XE ,na
+Porsche Taycan,Premium Coupe,425 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,316 L,STD ,na
+Tata Tigor EV,Subcompact MPV,415 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,656 L,Excite ,na
+Tata Tigor EV,Subcompact MPV,415 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,4 Seater ,350 L,XZ Plus 3.3 kW ,Sportback 55 
+MG ZS EV,Premium Fullsize SUV,437 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,na,S ,XZ Plus Dual Tone 
+Jaguar I-Pace,Premium Midsize Sedan,400 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,405 L,S ,Sportback 55 
+Audi E-Tron,Subcompact MPV,452 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,656 L,Quattro ,HSE 
+BYD E6,Premium Coupe,415 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,580 L,Excite ,na
+Tata Tigor EV,Subcompact Sedan,306 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,316 L,Premium Dual Tone ,Sportback 55 
+Audi E-Tron,Compact SUV,452 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,316 L,XE ,XZ Plus Lux 7.2 kW 
+Jaguar I-Pace,Premium Midsize Sedan,437 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,5 Seater ,448 L,XM ,XZ Plus Dual Tone 
+Tata Nexon EV Max,Premium Midsize Sedan,400 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,5 Seater ,656 L,Quattro ,Exclusive 
+Porsche Taycan,Premium Sports Sedan,419 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,4 Seater ,660 L,na,Exclusive 
+Tata Tigor EV,Premium Fullsize SUV,471 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,448 L,Excite ,Sportback 55 
+Tata Tigor EV,Premium Fullsize SUV,437 Km/Full Charge,Automatic,Electric,₹ 29.15 L,4 Seater ,350 L,XE ,XZ Plus Lux 7.2 kW 
+Audi E-Tron GT,Subcompact Sedan,na,Automatic,Electric,₹ 1.5 Cr,5 Seater ,na,Excite ,XZ Plus Dual Tone 
+Hyundai Kona Electric,Premium Fullsize SUV,425 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,350 L,XE ,XZ Plus Lux 7.2 kW 
+Jaguar I-Pace,Premium Coupe,312 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,580 L,Quattro ,Sportback 55 
+Audi E-Tron,Subcompact MPV,na,Automatic,Electric,₹ 12.49 - 13.64 L,5 Seater ,656 L,Excite ,Dark XZ Plus LUX 
+BMW iX,Subcompact MPV,388 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,448 L,XM ,Exclusive 
+BMW iX,Premium Midsize Sedan,400 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,405 L,XM ,Exclusive 
+BMW iX,Premium Fullsize SUV,415 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,4 Seater ,na,S ,Dark XZ Plus LUX 
+MG ZS EV,Premium Sports Sedan,419 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,580 L,STD ,na
+Hyundai Kona Electric,Premium Sports Sedan,452 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,4 Seater ,316 L,na,Dark XZ Plus LUX 
+Hyundai Kona Electric,Premium Midsize Sedan,452 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,656 L,na,Exclusive 
+BYD E6,Premium Midsize Sedan,425 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,5 Seater ,580 L,STD ,Exclusive 
+Porsche Taycan,Compact SUV,452 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,5 Seater ,656 L,Premium Dual Tone ,HSE 
+Tata Tigor EV,Compact SUV,471 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,350 L,na,Exclusive 
+Hyundai Kona Electric,Compact SUV,437 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,405 L,na,XZ Plus Dual Tone 
+Tata Nexon EV Max,Premium Fullsize SUV,415 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,4 Seater ,na,XM ,HSE 
+Mercedes-Benz EQC,Premium Midsize Sedan,312 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,660 L,XE ,na
+BYD E6,Subcompact MPV,470 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,4 Seater ,405 L,XE ,Exclusive 
+Mercedes-Benz EQC,Compact SUV,437 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,660 L,Premium Dual Tone ,Exclusive 
+Tata Nexon EV Max,Premium Fullsize SUV,415 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,4 Seater ,660 L,Premium Dual Tone ,Dark XZ Plus LUX 
+Audi E-Tron,Compact SUV,419 Km/Full Charge,Automatic,Electric,₹ 1 Cr,5 Seater ,580 L,Quattro ,Dark XZ Plus LUX 
+BMW iX,Premium Midsize Sedan,na,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,350 L,XZ Plus 3.3 kW ,na
+Jaguar I-Pace,Premium Sports Sedan,312 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,660 L,Excite ,XZ Plus Lux 7.2 kW 
+Hyundai Kona Electric,Subcompact MPV,419 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,350 L,na,na
+MG ZS EV,Premium Midsize Sedan,306 Km/Full Charge,Automatic,Electric,₹ 29.15 L,4 Seater ,na,STD ,XZ Plus Lux 7.2 kW 
+Tata Tigor EV,Subcompact MPV,471 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,316 L,STD ,XZ Plus Lux 7.2 kW 
+Tata Nexon EV,Premium Coupe,419 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,na,STD ,XZ Plus Dual Tone 
+Jaguar I-Pace,Subcompact MPV,419 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,4 Seater ,580 L,S ,Exclusive 
+Hyundai Kona Electric,Premium Midsize Sedan,425 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,405 L,Excite ,Dark XZ Plus LUX 
+Porsche Taycan,Subcompact MPV,306 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,4 Seater ,316 L,Quattro ,HSE 
+BYD E6,Premium Sports Sedan,437 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,350 L,STD ,XZ Plus Dual Tone 
+BYD E6,Premium Fullsize SUV,388 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,4 Seater ,660 L,Premium Dual Tone ,HSE 
+Porsche Taycan,Compact SUV,na,Automatic,Electric,₹ 1 Cr,4 Seater ,580 L,Premium Dual Tone ,Exclusive 
+Audi E-Tron GT,Premium Coupe,470 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,na,STD ,XZ Plus Dual Tone 
+Porsche Taycan,Premium Coupe,400 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,na,STD ,XZ Plus Lux 7.2 kW 
+Tata Tigor EV,Premium Sports Sedan,452 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,4 Seater ,580 L,Excite ,Sportback 55 
+Tata Nexon EV,Premium Coupe,na,Automatic,Electric,₹ 1.5 Cr,5 Seater ,350 L,na,HSE 
+Hyundai Kona Electric,Compact SUV,419 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,4 Seater ,656 L,na,Exclusive 
+Audi E-Tron,Subcompact MPV,470 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,316 L,Premium Dual Tone ,na
+Mercedes-Benz EQC,Subcompact Sedan,400 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,4 Seater ,na,XZ Plus 3.3 kW ,HSE 
+Audi E-Tron,Compact SUV,388 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,4 Seater ,316 L,XE ,Exclusive 
+Jaguar I-Pace,Premium Fullsize SUV,471 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,580 L,Excite ,Dark XZ Plus LUX 
+Audi E-Tron GT,Subcompact Sedan,452 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,4 Seater ,448 L,XZ Plus 3.3 kW ,Sportback 55 
+Porsche Taycan,Premium Fullsize SUV,452 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,4 Seater ,580 L,Quattro ,Dark XZ Plus LUX 
+Tata Nexon EV Max,Premium Midsize Sedan,452 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,448 L,Excite ,HSE 
+Jaguar I-Pace,Subcompact MPV,437 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,5 Seater ,405 L,Premium Dual Tone ,HSE 
+MG ZS EV,Subcompact MPV,na,Automatic,Electric,₹ 29.15 L,5 Seater ,na,Excite ,Sportback 55 
+Porsche Taycan,Premium Midsize Sedan,312 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,5 Seater ,656 L,Excite ,Exclusive 
+BMW iX,Premium Coupe,388 Km/Full Charge,Automatic,Electric,₹ 29.15 L,4 Seater ,660 L,S ,Exclusive 
+Tata Tigor EV,Compact SUV,470 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,4 Seater ,580 L,XZ Plus 3.3 kW ,XZ Plus Lux 7.2 kW 
+Porsche Taycan,Subcompact MPV,470 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,656 L,XM ,Exclusive 
+Tata Tigor EV,Premium Midsize Sedan,415 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,4 Seater ,316 L,Excite ,HSE 
+Audi E-Tron GT,Subcompact MPV,419 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,4 Seater ,na,na,XZ Plus Lux 7.2 kW 
+Tata Tigor EV,Premium Coupe,452 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,5 Seater ,316 L,STD ,XZ Plus Dual Tone 
+Tata Tigor EV,Subcompact MPV,415 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,656 L,Excite ,XZ Plus Lux 7.2 kW 
+BMW iX,Subcompact MPV,452 Km/Full Charge,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,405 L,XE ,XZ Plus Dual Tone 
+MG ZS EV,Premium Midsize Sedan,na,Automatic,Electric,₹ 1.06 - 1.12 Cr,5 Seater ,405 L,Quattro ,Sportback 55 
+Mercedes-Benz EQC,Premium Midsize Sedan,437 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,5 Seater ,660 L,Premium Dual Tone ,Dark XZ Plus LUX 
+Tata Nexon EV,Subcompact Sedan,452 Km/Full Charge,Automatic,Electric,₹ 1 Cr,4 Seater ,448 L,STD ,HSE 
+BYD E6,Premium Sports Sedan,415 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,448 L,Quattro ,XZ Plus Lux 7.2 kW 
+BYD E6,Compact SUV,471 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,5 Seater ,448 L,XE ,XZ Plus Lux 7.2 kW 
+MG ZS EV,Compact SUV,312 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,4 Seater ,448 L,Premium Dual Tone ,XZ Plus Dual Tone 
+Audi E-Tron,Subcompact MPV,471 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,656 L,na,XZ Plus Dual Tone 
+BYD E6,Compact SUV,471 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,4 Seater ,405 L,Quattro ,na
+Tata Nexon EV,Premium Midsize Sedan,388 Km/Full Charge,Automatic,Electric,₹ 13.99 - 17.4 L,4 Seater ,656 L,Premium Dual Tone ,Sportback 55 
+MG ZS EV,Premium Fullsize SUV,452 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,na,Premium Dual Tone ,na
+Tata Tigor EV,Premium Sports Sedan,312 Km/Full Charge,Automatic,Electric,₹ 29.15 L,4 Seater ,660 L,na,Dark XZ Plus LUX 
+Audi E-Tron,Subcompact Sedan,na,Automatic,Electric,₹ 1 Cr,5 Seater ,405 L,XM ,na
+Tata Tigor EV,Subcompact MPV,471 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,na,Premium Dual Tone ,Exclusive 
+BMW iX,Subcompact MPV,388 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,350 L,na,Sportback 55 
+Tata Tigor EV,Premium Sports Sedan,388 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,5 Seater ,656 L,S ,Sportback 55 
+Audi E-Tron GT,Premium Coupe,388 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,350 L,STD ,HSE 
+MG ZS EV,Premium Coupe,415 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,4 Seater ,316 L,Premium Dual Tone ,na
+Tata Tigor EV,Premium Sports Sedan,471 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,405 L,Excite ,Dark XZ Plus LUX 
+Tata Nexon EV Max,Premium Sports Sedan,415 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,5 Seater ,656 L,STD ,HSE 
+Jaguar I-Pace,Subcompact MPV,425 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,580 L,Premium Dual Tone ,Dark XZ Plus LUX 
+MG ZS EV,Premium Coupe,425 Km/Full Charge,Automatic,Electric,₹ 17.74 - 19.24 L,5 Seater ,na,na,XZ Plus Lux 7.2 kW 
+BYD E6,Subcompact Sedan,415 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,4 Seater ,405 L,XM ,XZ Plus Dual Tone 
+Hyundai Kona Electric,Premium Fullsize SUV,306 Km/Full Charge,Automatic,Electric,₹ 12.49 - 13.64 L,4 Seater ,na,XE ,XZ Plus Dual Tone 
+MG ZS EV,Premium Coupe,470 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,350 L,Excite ,HSE 
+Jaguar I-Pace,Premium Sports Sedan,437 Km/Full Charge,Automatic,Electric,₹ 1.16 Cr,4 Seater ,580 L,Premium Dual Tone ,Exclusive 
+Tata Tigor EV,Premium Sports Sedan,312 Km/Full Charge,Automatic,Electric,₹ 1.8 Cr,4 Seater ,350 L,S ,Sportback 55 
+Audi E-Tron GT,Premium Fullsize SUV,470 Km/Full Charge,Automatic,Electric,₹ 29.15 L,4 Seater ,656 L,Excite ,na
+Tata Nexon EV,Compact SUV,400 Km/Full Charge,Automatic,Electric,₹ 29.15 L,5 Seater ,660 L,na,Dark XZ Plus LUX 
+MG ZS EV,Subcompact MPV,470 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,4 Seater ,350 L,STD ,Exclusive 
+Tata Nexon EV Max,Compact SUV,437 Km/Full Charge,Automatic,Electric,₹ 23.79 - 23.98 L,5 Seater ,350 L,S ,HSE 
+Hyundai Kona Electric,Premium Coupe,415 Km/Full Charge,Automatic,Electric,₹ 21.99 - 25.88 L,4 Seater ,405 L,XZ Plus 3.3 kW ,Sportback 55 
+Audi E-Tron GT,Subcompact MPV,425 Km/Full Charge,Automatic,Electric,₹ 1.5 Cr,5 Seater ,580 L,Excite ,Dark XZ Plus LUX 
+Tata Tigor EV,Subcompact MPV,na,Automatic,Electric,₹ 1 Cr,4 Seater ,316 L,STD ,XZ Plus Lux 7.2 kW 
+Tata Nexon EV,Compact SUV,na,Automatic,Electric,₹ 1.01 - 1.19 Cr,5 Seater ,na,XM ,Exclusive 
+Hyundai Kona Electric,Premium Midsize Sedan,425 Km/Full Charge,Automatic,Electric,₹ 1.01 - 1.19 Cr,4 Seater ,580 L,Premium Dual Tone ,na
